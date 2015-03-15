@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.12.18)  18 AUG 2013 15:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**info.tex
+(./info.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+)
+! Emergency stop.
+<*> info.tex
+            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 8 strings out of 495059
+ 146 string characters out of 3182029
+ 45057 words of memory out of 3000000
+ 3291 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 5i,0n,1p,81b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

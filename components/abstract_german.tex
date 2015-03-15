@@ -1,0 +1,21 @@
+% Abstract for the TUM report document
+% Included by MAIN.TEX
+
+
+\clearemptydoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Abstract - Deutsch}	
+
+\vspace*{1cm}
+\begin{center}
+{\Large \bf Abstract - Deutsch}
+\end{center}
+\vspace{1cm}
+
+Humanoide Roboter besitzen eine Vielzahl von redundanten Aktuatoren, die benutzt werden k{\"o}nnen, um mehrere Aufgaben parallel auszuf{\"u}hren. Dabei ist oft eine Hierarchie zwischen diesen Aufgaben realisiert. Das gleichzeitige Ausf{\"u}hren von Zielpositionen birgt jedoch die Gefahr von (Selbst-)Kollisionen. Das erfordert eine Kollisionsvermeidung in Echtzeit innerhalb dieser Hierarchie. 	
+
+In dieser Masterarbeit pr{\"a}sentieren wir eine vollst{\"a}ndige L{\"o}sung f{\"u}r eine hoch-dynamische (Selbst-)Kollisionsvermeidung. Diese ist realisiert als eine Ungleichheitsbedingung innerhalb des Stack-of-Tasks.
+
+Unsere vorgeschlagene Methode zur (Selbst-)Kollisionsvermeidung ist implementiert f{\"u}r den Quadratic Program Solver innerhalb des Stack-of-Tasks. Die Anordnung der linearen Bedingungen geschieht in Form eines Stacks, was eine iterative L{\"o}sung mit Respekt zu den gegebenen Priorit{\"a}ten erlaubt. Daher der Name Stack-of-Tasks. The Kollisionsvermeidung basiert auf der Berechnung der k{\"u}rzesten Distanz zwischen zwei Kollisionsobjekten. Um eine eindeutige L{\"o}sung f{\"u}r diese Distanz zu erzielen, schlagen wir eine Darstellung des Roboterkollisionsmodells durch Kapseln vor. Die Pseudokonvenxit{\"a}t von Kapseln verringert die m{\"o}glichen Diskontinuit{\"a}ten. Die Geschwindigkeit entlang des Einheitsvektors der k{\"u}rzesten Distanz is limitiert durch einen Schwellwert. Die Projektion der Jacobianmatrix auf den Richtungsvektor wird auf Null reduziert, wenn der Grenzwert der Ungleichheit erreicht ist. Die gleiche Methode kann f{\"u}r Selbstkollisions- als auch f{\"u}r externe Kollisionsvermeidung verwendet werden.
+
+Um die Ausf{\"u}hrungszeit minimal zu halten, wird der Dynamic Graph innerhalb des SoT aufgenutzt um nur die notwendigen k{\"u}rzesten Distanzen zu berechnen. Die Kollisionsvermeidung besitzt eine hohe Priorit{\"a}t innerhalb der Hierarchie. Gleichzeitig erlaubt unsere Methode eine reibungsfreie Ausf{\"u}hrung von niedrig priorisierten Aufgaben.

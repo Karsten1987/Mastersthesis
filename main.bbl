@@ -1,0 +1,364 @@
+\begin{thebibliography}{10}
+
+\bibitem{asimospec}
+Honda Asimo.
+\newblock Asimo specification.
+\newblock \url{http://asimo.honda.com/asimo-specs/}, 2014.
+
+\bibitem{ben2003generalized}
+A.~Ben-Israel and T.N.E. Greville.
+\newblock {\em Generalized Inverses: Theory and Applications}.
+\newblock CMS Books in Mathematics. Springer, 2003.
+
+\bibitem{c1983geometric}
+M.Z. C.~S. G.~LEE.
+\newblock {\em A GEOMETRIC APPROACH IN SOLVING THE INVERSE KINMATICS OF PUMA
+  ROBOTS}.
+\newblock 1983.
+
+\bibitem{12020}
+C.~Chevallereau and W.~Khalil.
+\newblock A new method for the solution of the inverse kinematics of redundant
+  robots.
+\newblock In {\em Robotics and Automation, 1988. Proceedings., 1988 IEEE
+  International Conference on}, pages 37--42 vol.1, Apr 1988.
+
+\bibitem{Chiaverini94reviewof}
+S~Chiaverini, B~Siciliano, and O~Egeland.
+\newblock Review of the damped least-squares inverse kinematics with
+  experiments on an industrial robot manipulator.
+\newblock {\em IEEE Trans. on Control Systems Technology}, pages 123--134,
+  1994.
+
+\bibitem{springer}
+Stefano Chiaverini, Giuseppe Oriolo, and IanD. Walker.
+\newblock Kinematically redundant manipulators.
+\newblock In Bruno Siciliano and Oussama Khatib, editors, {\em Springer
+  Handbook of Robotics}, pages 245--268. Springer Berlin Heidelberg, 2008.
+
+\bibitem{cramer1750introduction}
+G.~Cramer.
+\newblock {\em Introduction {\`a} l'analyse des lignes courbes
+  alg{\'e}briques}.
+\newblock chez les fr{\`e}res Cramer et C. Philibert, 1750.
+
+\bibitem{atlasspec}
+Darpa.
+\newblock Darpa' atlas robot unveiled.
+\newblock \url{http://www.darpa.mil/NewsEvents/Releases/2013/07/11.aspx}, 2013.
+
+\bibitem{conf/icra/DietrichWTAH11}
+Alexander Dietrich, Thomas Wimb\"{o}ck, Holger T\"{a}ubig, Alin
+  Albu-Sch\"{a}ffer, and Gerd Hirzinger.
+\newblock Extensions to reactive self-collision avoidance for torque and
+  position controlled humanoids.
+\newblock In {\em ICRA}, pages 3455--3462. IEEE, 2011.
+
+\bibitem{Ericson:2004:RCD:1121584}
+Christer Ericson.
+\newblock {\em Real-Time Collision Detection (The Morgan Kaufmann Series in
+  Interactive 3-D Technology) (The Morgan Kaufmann Series in Interactive 3D
+  Technology)}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 2004.
+
+\bibitem{escande-icra-10}
+A.~Escande, N.~Mansard, and P-B. Wieber.
+\newblock A dedicated quadradic program for fast hierarchical-inverse-kinematic
+  resolution.
+\newblock In {\em IEEE Int. Conf. on Robotics and Automation (ICRA'10)},
+  Anchorage, USA, May 2010.
+
+\bibitem{escande-ijrr-sub12}
+A.~Escande, N.~Mansard, and P.B. Wieber.
+\newblock Hierarchical quadratic programming.
+\newblock {\em International Journal of Robotics Research}, October 2012.
+
+\bibitem{escande:ijrr:2014}
+Adrien Escande, Nicolas Mansard, and Pierre-Brice Wieber.
+\newblock Hierarchical quadratic programming: Fast online humanoid-robot motion
+  generation.
+\newblock {\em International Journal of Robotics Reasearch}, 2014.
+\newblock in press.
+
+\bibitem{escande:itro:2013}
+Adrien Escande, Sylvain Miossec, Mehdi Benallegue, and Abderrahmane Kheddar.
+\newblock A strictly convex hull for computing proximity distances with
+  continuous gradients.
+\newblock {\em IEEE Transactions on Robotics}, 2013.
+\newblock conditionally accepted.
+
+\bibitem{conf/humanoids/EscandeMK07}
+Adrien Escande, Sylvain Miossec, and Abderrahmane Kheddar.
+\newblock Continuous gradient proximity distance for humanoids free-collision
+  optimized-postures.
+\newblock In {\em Humanoids}, pages 188--195. IEEE, 2007.
+
+\bibitem{ROB:2555180}
+P.J. Esrom.
+\newblock Robot control (the task function approach), by c. samson, m. le
+  borgne and b. espiau oxford university press, oxford, 1991, xvii + 364,
+  references and index (£50.00).
+\newblock {\em Robotica}, 9:447--448, 12 1991.
+
+\bibitem{Faverjon87alocal}
+B~Faverjon and P~Tournassoud.
+\newblock A local approach for path planning of manipulators with a high number
+  of degrees of freedom.
+\newblock In {\em Proc. IEEE Int. Conf. on Robotics and Automation}, pages
+  1152--1159, 1987.
+
+\bibitem{dynamics}
+R.~Featherstone and D.~Orin.
+\newblock Robot dynamics: equations and algorithms.
+\newblock In {\em Robotics and Automation, 2000. Proceedings. ICRA 2000. IEEE
+  International Conference on}, volume~1, pages 826--834 vol.1, 2000.
+
+\bibitem{hubospec}
+Korean Advanced~Institute for Science and Technology.
+\newblock Hubo specification.
+\newblock \url{http://ohzlab.kaist.ac.kr/p_hubo2p}, 2014.
+
+\bibitem{gjkoriginal}
+E.~G. Gilbert, D.~W. Johnson, and S.~S. Keerthi.
+\newblock {A fast procedure for computing the distance between complex objects
+  in three-dimensional space}.
+\newblock {\em Robotics and Automation, IEEE Journal of}, 4(2):193--203, 1988.
+
+\bibitem{hartenberg-1964a}
+R.~S. Hartenberg and J.~Denavit.
+\newblock {\em Kinematic Synthesis of Linkages}.
+\newblock McGraw-Hill, New York, 1964.
+
+\bibitem{Kanehiro-RSS08}
+Fumio Kanehiro, Florent Lamiraux, Oussama Kanoun, Eiichi Yoshida, and Jean-Paul
+  Laumond.
+\newblock A local collision avoidance method for non-strictly convex polyhedra.
+\newblock In {\em Proceedings of Robotics: Science and Systems IV}, Zurich,
+  Switzerland, June 2008.
+
+\bibitem{kanoun:itro:11}
+O.~Kanoun, F.~Lamiraux, and P.-B. Wieber.
+\newblock Kinematic control of redundant manipulators: Generalizing the task
+  priority framework to inequality tasks.
+\newblock (4):785--792, 2011.
+
+\bibitem{kanoun:inria-00390581}
+Oussama Kanoun, Florent Lamiraux, Pierre-Brice Wieber, Fumio Kanehiro, Eiichi
+  Yoshida, and Jean-Paul Laumond.
+\newblock {Prioritizing linear equality and inequality systems: application to
+  local motion planning for redundant robots}.
+\newblock In {\em {ICRA 2009 - IEEE International Conference on Robotics \&
+  Automation}}, pages 2939--2944, Kobe, Japon, 2009. IEEE.
+
+\bibitem{Kavraki96probabilisticroadmaps}
+Lydia Kavraki, Petr Svestka, Jean claude Latombe, and Mark Overmars.
+\newblock Probabilistic roadmaps for path planning in high-dimensional
+  configuration spaces.
+\newblock In {\em IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION},
+  pages 566--580, 1996.
+
+\bibitem{ompl}
+Rice~University Kavraki~Lab.
+\newblock Open motion planning library: A primer.
+
+\bibitem{Khatib:86g}
+O.~Khatib.
+\newblock Real-time obstacle avoidance for manipulators and mobile robots.
+\newblock {\em The International Journal of Robotics Research}, 5(1):90--98,
+  Spring 1986.
+
+\bibitem{khatib-1987a}
+Oussama Khatib.
+\newblock A unified approach for motion and force control of robot
+  manipulators: The operational space formulation.
+\newblock {\em IEEE Transactions on Robotics and Automation}, RA-3(1):43--53,
+  February 1987.
+
+\bibitem{kuhn50nonlinear}
+H.~W. Kuhn and A.~W. Tucker.
+\newblock Nonlinear programming.
+\newblock In Jerzy Neyman, editor, {\em Proceedings of the 2nd Berkeley
+  Symposium on Mathematical Statistics and Probability}, pages 481--492.
+  University of California Press, Berkeley, CA, USA, 1950.
+
+\bibitem{Lavalle98rapidly-exploringrandom}
+Steven~M. Lavalle.
+\newblock Rapidly-exploring random trees: A new tool for path planning.
+\newblock Technical report, 1998.
+
+\bibitem{LaValle04planningalgorithms}
+Steven~M LaValle.
+\newblock Planning algorithms, 2004.
+
+\bibitem{marcus}
+Marcus Liebhardt.
+\newblock Online motion retargeting for humanoid robot teleoperation.
+\newblock Master's thesis, Universit{\"a}t Stuttgart, GER, 2011.
+
+\bibitem{Liegeois1977}
+A.~Liegeois.
+\newblock Automatic supervisory control of the configuration and behavior of
+  multibody mechanisms.
+\newblock {\em IEEE Trans. Systems, Man, and Cybernetics}, 7(12):842--868,
+  1977.
+
+\bibitem{conf/iros/LiuDZ05}
+Hong Liu, Xuezhi Deng, and Hongbin Zha.
+\newblock A planning method for safe interaction between human arms and robot
+  manipulators.
+\newblock In {\em IROS}, pages 2724--2730. IEEE, 2005.
+
+\bibitem{Sentis:06}
+L.Sentis and O.Khatib.
+\newblock A whole-body control framework for humanoid operating in human
+  environments.
+\newblock In {\em Proc. of the IEEE International Conference on Robotics and
+  Automation}, pages 2641--2648, Orlando, FL, USA, May 2006.
+
+\bibitem{bence}
+Bence Magyar.
+\newblock Implementing visual perception tasks for the reem robot.
+\newblock Master's thesis, Et{\"o}v{\"o}s Lor{\'a}nd University, HU, 2012.
+
+\bibitem{mansard-tro-09}
+N.~Mansard, O.~Khatib, and A.~Kheddar.
+\newblock A unified approach to integrate unilateral constraints in the stack
+  of tasks.
+\newblock {\em IEEE Transaction on Robotics}, 25(3), June 2009.
+
+\bibitem{mansard:icar:09}
+N.~Mansard, O., P.~Evrard, and A.~Kheddar.
+\newblock A versatile generalized inverted kinematics implementation for
+  collaborative working humanoid robots: The stack of tasks.
+\newblock In {\em International Conference on Advanced Robotics (ICAR)}, page
+  119, June 2009.
+
+\bibitem{martinez2013learning}
+A.~Martinez and E.~Fern{\'a}ndez.
+\newblock {\em Learning ROS for Robotics Programming}.
+\newblock Packt Publishing, 2013.
+
+\bibitem{roscontrol}
+Wim Meeussen, Adolfo~Rodriguez Tsouroukdissian, and Dave Coleman.
+\newblock Ros-control.
+\newblock \url{http://wiki.ros.org/ros_control}, 2014.
+
+\bibitem{murty1983linear}
+K.G. Murty.
+\newblock {\em Linear programming}.
+\newblock Wiley, 1983.
+
+\bibitem{GVK502988711}
+Jorge Nocedal and Stephan~J. Wright.
+\newblock {\em Numerical optimization}.
+\newblock Springer series in operations research and financial engineering.
+  Springer, New York, NY, 2. ed. edition, 2006.
+
+\bibitem{conf/icra/PanCM12}
+Jia Pan, Sachin Chitta, and Dinesh Manocha.
+\newblock Fcl: A general purpose library for collision and proximity queries.
+\newblock In {\em ICRA}, pages 3859--3866. IEEE, 2012.
+
+\bibitem{oscar}
+Oscar Efra{\'i}n~Ramos Ponce.
+\newblock Generation of complex dynamic motion for a humanoid robot.
+\newblock Master's thesis, LAAS-CNRS, FR, 2011.
+
+\bibitem{citeulike:1090825}
+Lorenzo Sciavicco and Bruno Siciliano.
+\newblock {\em {Modelling and Control of Robot Manipulators}}.
+\newblock Springer, January 2000.
+
+\bibitem{LIE}
+J.M. Selig.
+\newblock Lie groups and lie algebras in robotics.
+\newblock In Jim Byrnes, editor, {\em Computational Noncommutative Algebra and
+  Applications}, volume 136 of {\em NATO Science Series II: Mathematics,
+  Physics and Chemistry}, pages 101--125. Springer Netherlands, 2004.
+
+\bibitem{conf/iros/SetoKH05}
+Fumi Seto, Kazuhiro Kosuge, and Yasuhisa Hirata.
+\newblock Self-collision avoidance motion control for human robot cooperation
+  system using robe.
+\newblock In {\em IROS}, pages 3143--3148. IEEE, 2005.
+
+\bibitem{journals/jirs/Siciliano90}
+Bruno Siciliano.
+\newblock Kinematic control of redundant robot manipulators: A tutorial.
+\newblock {\em Journal of Intelligent and Robotic Systems}, 3(3):201--212,
+  1990.
+
+\bibitem{opac-b1129198}
+Bruno Siciliano, Lorenzo Sciavicco, and Luigi Villani.
+\newblock {\em Robotics : modelling, planning and control}.
+\newblock Advanced Textbooks in Control and Signal Processing. Springer,
+  London, 2009.
+\newblock 013-81159.
+
+\bibitem{siciliano1991general}
+Bruno Siciliano and J-JE Slotine.
+\newblock A general framework for managing multiple tasks in highly redundant
+  robotic systems.
+\newblock In {\em Advanced Robotics, 1991.'Robots in Unstructured
+  Environments', 91 ICAR., Fifth International Conference on}, pages
+  1211--1216. IEEE, 1991.
+
+\bibitem{reemspec}
+Pal~Robotics S.L.
+\newblock Reem-c specification.
+\newblock \url{http://www.pal-robotics.com/en/robots/reem-c}, 2014.
+
+\bibitem{stasse-icra-08}
+O.~Stasse, A.~Escande, N.~Mansard, S.~Miossec, P.~Evrard, and A.~et~Kheddar.
+\newblock Real-time (self)-collision avoidance task on a {HRP-2} humanoid
+  robot.
+\newblock In {\em icra08}, Las Passadenas, USA, May 2008.
+
+\bibitem{644}
+Ioan~Alexandru Sucan and Lydia~E. Kavraki.
+\newblock Kinodynamic motion planning by interior-exterior cell exploration.
+\newblock In {\em Algorithmic Foundation of Robotics VIII (Proceedings of
+  Workshop on the Algorithmic Foundations of Robotics)}, volume~57, pages
+  449--464, Guanajuato, Mexico, 2009. STAR, STAR.
+
+\bibitem{conf/humanoids/SugiuraGJG06}
+Hisashi Sugiura, Michael Gienger, Herbert Janssen, and Christian Goerick.
+\newblock Real-time self collision avoidance for humanoids by means of
+  nullspace criteria and task intervals.
+\newblock In {\em Humanoids}, pages 575--580. IEEE, 2006.
+
+\bibitem{Thrunprobabilisticalgorithms}
+Sebastian Thrun.
+\newblock Probabilistic algorithms in robotics.
+\newblock {\em AI Magazine vol}, page 2000.
+
+\bibitem{Tobler_amesh}
+Robert~F. Tobler and Stefan Maierhofer.
+\newblock A mesh data structure for rendering and subdivision.
+
+\bibitem{VandenBergen:1999:FRG:334709.334711}
+Gino Van~den Bergen.
+\newblock A fast and robust gjk implementation for collision detection of
+  convex objects.
+\newblock {\em J. Graph. Tools}, 4(2):7--25, March 1999.
+
+\bibitem{Whitney72a}
+D.~E. Whitney.
+\newblock {The mathematics of coordinated control of prosthetic arms and
+  manipulators}.
+\newblock {\em Trans. ASME Journal of Dynamic System, Measures and Control},
+  94, 1972.
+
+\bibitem{Xie98real-timecollision}
+H~P Xie, R~V Patel, S~Kalaycioglu, and H~Asmer.
+\newblock Real-time collision avoidance for a redundant manipulator in an
+  unstructured environment.
+\newblock In {\em in International Conference on Intelligent Robots and
+  Systems}, page pages, 1998.
+
+\bibitem{nakamura}
+H.~Hanafusa Y.~Nakamura.
+\newblock Optimal redundancy control of robot manipulators.
+\newblock {\em International Journal of Robotics Research}, 1986.
+
+\end{thebibliography}

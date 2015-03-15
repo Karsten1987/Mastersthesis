@@ -1,0 +1,23 @@
+% Abstract for the TUM report document
+% Included by MAIN.TEX
+
+
+\clearemptydoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Abstract}	
+
+\vspace*{1cm}
+\begin{center}
+{\Large \bf Abstract}
+\end{center}
+\vspace{1cm}
+
+Humanoid robots comprise a high number of redundancy, which can be used to achieve multiple goals in parallel. A hierarchy of tasks is often implemented in order to execute them simultaneously. However, this emerges a high risk of (self-)collisions, where a reactive and online collision avoidance has to be instantiated inside the hierarchy.  	
+
+In this Master's thesis, a solution for highly dynamic (self-)collision avoidance is presented. The collision avoidance is realized as an inequality constraint inside the Stack-of-Tasks. 
+
+Our proposed (self-)collision avoidance is implemented for the quadratic programming solver inside the Stack-of-Tasks. The alignment of linear constraints in form of a stack enables an iterative solving progress with respect to priorities given to these constraints. Hence the name, Stack-of-Tasks. The collision avoidance task is based on the closest point pair of possible collisions between two body parts. To achieve a unique solution for the closest point pair, a complete capsule decomposition for the robot model is created. The pseudo convexity of capsules reduces the number of discontinuities and leads to a smooth transition. The velocity along the unit-vector of these two points is limited by a threshold, dependent on the corresponding distance. The projection of the Jacobian towards the collision center point is reduced to zero if the inequality boundary is hit, thus disabling any movement towards the collision center. The same method can be used for self-collision avoidance as well as avoidance of external collision objects.
+
+In order to keep the computational cost to a minimum, the dynamic graph inside the SoT is exploited in a way, that only the necessary closest point pairs are recomputed. This implies an efficient on-demand computation of the collision matrix. The self-collision is placed on a high level inside the hierarchy to ensure a constant collision check. On the same hand, the applied method allows a smooth execution of lower prioritized tasks of interest.
+%
+%Self-collision avoidance should always serves only as an invisible constraining task and never obviously interfere with the actual task of interest, such as positioning the manipulator. The applied method fulfills this requirement, since it is considered as inactive as long as the operation is outside a specified security distance. It only becomes active, when a violation of this security distance would happen. Therefore, we could develop further applications, such as tele-operation, visual servoing or ball grasping, in a safe manner. 

@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+A level-1 auxiliary file: chapters/sot.aux
+Database file #1: bibliography/literature.bib
+Warning--empty publisher in c1983geometric
+Warning--empty journal in kanoun:itro:11
+Warning--there's a number but no volume in kanoun:itro:11
+Warning--empty institution in Lavalle98rapidly-exploringrandom
+Warning--empty year in Thrunprobabilisticalgorithms
+You've used 60 entries,
+            2118 wiz_defined-function locations,
+            845 strings with 14509 characters,
+and the built_in function-call counts, 20434 in all, are:
+= -- 2036
+> -- 848
+< -- 24
++ -- 348
+- -- 274
+* -- 1216
+:= -- 3248
+add.period$ -- 195
+call.type$ -- 60
+change.case$ -- 307
+chr.to.int$ -- 0
+cite$ -- 65
+duplicate$ -- 893
+empty$ -- 1686
+format.name$ -- 274
+if$ -- 4497
+int.to.chr$ -- 0
+int.to.str$ -- 60
+missing$ -- 58
+newline$ -- 303
+num.names$ -- 126
+pop$ -- 414
+preamble$ -- 1
+purify$ -- 255
+quote$ -- 0
+skip$ -- 687
+stack$ -- 0
+substring$ -- 1129
+swap$ -- 276
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 220
+warning$ -- 5
+while$ -- 182
+width$ -- 62
+write$ -- 661
+(There were 5 warnings)
